@@ -1,0 +1,12 @@
+certifi==2019.9.11
+chardet==3.0.4
+Django==2.2.6
+future==0.18.0
+gunicorn==19.9.0
+idna==2.8
+line-bot-sdk==1.14.0
+python-dotenv==0.10.3
+pytz==2019.3
+requests==2.22.0
+sqlparse==0.3.0
+urllib3==1.25.6

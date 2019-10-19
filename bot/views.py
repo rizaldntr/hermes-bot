@@ -53,7 +53,7 @@ def parser(event):
             )         
     except Exception as e:
         logger.error(e)
-        
+
 @csrf_exempt
 def callback(request):
     if request.method == 'POST':
@@ -68,6 +68,7 @@ def callback(request):
             return HttpResponseBadRequest()
 
         for event in events:
+            logger.info("Test")
             parser(event)
 
         return HttpResponse()

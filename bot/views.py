@@ -1,4 +1,5 @@
 import os
+import logging
 
 from pathlib import Path
 from dotenv import load_dotenv
@@ -15,6 +16,7 @@ from linebot.models import MessageEvent, TextMessage, TextSendMessage
 from .models import ScheduleDetail, TrackDetail
 
 load_dotenv(dotenv_path='.env')
+logger = logging.getLogger(__name__)
 
 line_bot_api = LineBotApi(os.getenv('LINE_CHANNEL_ACCESS_TOKEN'))
 parser = WebhookParser(os.getenv('LINE_CHANNEL_SECRET'))
@@ -33,7 +35,7 @@ def check_track_by_transport(transport, args):
 
 def parser_check_command(text, args):
     if text == "rute":
-        check_track_by_transport(args[2], args)
+        return check_track_by_transport(args[2], args)
 
 def parser(event):
     reply_text = DEFAULT_MESSAGE_COMMAND_NOT_FOUND
@@ -44,10 +46,14 @@ def parser(event):
                 reply_text = DEFAULT_MESSAGE_COMMAND_NOT_FOUND
             elif argums[0] == "/check":
                 reply_text = parser_check_command(argums[1], argums)
-    line_bot_api.reply_message(
-            event.reply_token,
-            TextSendMessage(text=reply_text)
-        )         
+    try:
+        line_bot_api.reply_message(
+                event.reply_token,
+                TextSendMessage(text=reply_text)
+            )         
+    except Exception as e:
+        logger.error(e)
+        
 @csrf_exempt
 def callback(request):
     if request.method == 'POST':

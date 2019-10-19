@@ -1,0 +1,2762 @@
+[
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_D02027_1",
+            "name": "1",
+            "color": "D02027",
+            "long_name": "Blok M - Kota",
+            "schedule_id": "idjkb_1",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_93C3A4_1A",
+            "name": "1A",
+            "color": "93C3A4",
+            "long_name": "PIK - Balai Kota",
+            "schedule_id": "idjkb_1A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_2AA8A4_1B",
+            "name": "1B",
+            "color": "2AA8A4",
+            "long_name": "Stasiun Palmerah - Tosari",
+            "schedule_id": "idjkb_1B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_59A9C1_1C",
+            "name": "1C",
+            "color": "59A9C1",
+            "long_name": "Blok M - Pesanggrahan - Bintaro",
+            "schedule_id": "idjkb_1C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_C50003_1E",
+            "name": "1E",
+            "color": "C50003",
+            "long_name": "Pondok Labu - Blok M",
+            "schedule_id": "idjkb_1E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_FF7465_1F",
+            "name": "1F",
+            "color": "FF7465",
+            "long_name": "Stasiun Palmerah - Bundaran Senayan",
+            "schedule_id": "idjkb_1F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_E15F80_1H",
+            "name": "1H",
+            "color": "E15F80",
+            "long_name": "Stasiun Tanah Abang - Stasiun Gondangdia",
+            "schedule_id": "idjkb_1H",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_D6375F_1M",
+            "name": "1M",
+            "color": "D6375F",
+            "long_name": "Meruya - Blok M",
+            "schedule_id": "idjkb_1M",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_D81748_1N",
+            "name": "1N",
+            "color": "D81748",
+            "long_name": "Tanah Abang - Blok M",
+            "schedule_id": "idjkb_1N",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_FF0040_1P",
+            "name": "1P",
+            "color": "FF0040",
+            "long_name": "Senen - Bundaran Senayan",
+            "schedule_id": "idjkb_1P",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_FF9411_1Q",
+            "name": "1Q",
+            "color": "FF9411",
+            "long_name": "Blok M - Rempoa",
+            "schedule_id": "idjkb_S23",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_FC8DA9_1R",
+            "name": "1R",
+            "color": "FC8DA9",
+            "long_name": "Senen - Stasiun Tanah Abang",
+            "schedule_id": "idjkb_1R",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_264798_2",
+            "name": "2",
+            "color": "264798",
+            "long_name": "Pulo Gadung - Harmoni",
+            "schedule_id": "idjkb_2",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_4EA8DE_2A",
+            "name": "2A",
+            "color": "4EA8DE",
+            "long_name": "Kalideres - Pulo Gadung",
+            "schedule_id": "idjkb_2A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_266E9A_2B",
+            "name": "2B",
+            "color": "266E9A",
+            "long_name": "ASMI - Harapan Indah",
+            "schedule_id": "idjkb_2B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_4EA8DE_2D",
+            "name": "2D",
+            "color": "4EA8DE",
+            "long_name": "Rawa Buaya - ASMI",
+            "schedule_id": "idjkb_2D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_2E",
+            "name": "2E",
+            "color": "8D8482",
+            "long_name": "Rusun Rawa Bebek - Pakin",
+            "schedule_id": "idjkb_2E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_2F",
+            "name": "2F",
+            "color": "8D8482",
+            "long_name": "Rusun Cakung Barat (Albo) - Pulo Gadung",
+            "schedule_id": "idjkb_2F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_2H",
+            "name": "2H",
+            "color": "8D8482",
+            "long_name": "Rusun Jati Rawasari - Senen",
+            "schedule_id": "idjkb_2H",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_215AED_2K",
+            "name": "2K",
+            "color": "215AED",
+            "long_name": "JGC - Harapan Indah",
+            "schedule_id": "idjkb_2K",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_EDB900_3",
+            "name": "3",
+            "color": "EDB900",
+            "long_name": "Kalideres - Pasar Baru",
+            "schedule_id": "idjkb_3",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_3A",
+            "name": "3A",
+            "color": "8D8482",
+            "long_name": "Rusun Pesakih - Kalideres",
+            "schedule_id": "idjkb_3A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_3B",
+            "name": "3B",
+            "color": "8D8482",
+            "long_name": "Rusun Flamboyan - Kalideres",
+            "schedule_id": "idjkb_3B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_3C",
+            "name": "3C",
+            "color": "8D8482",
+            "long_name": "Rusun Kapuk Muara - Penjaringan",
+            "schedule_id": "idjkb_3C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_73CCD5_3D",
+            "name": "3D",
+            "color": "73CCD5",
+            "long_name": "Penjaringan - Rawa Buaya",
+            "schedule_id": "idjkb_3D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_DBAA06_3E",
+            "name": "3E",
+            "color": "DBAA06",
+            "long_name": "Sentraland Cengkareng - Puri Kembangan",
+            "schedule_id": "idjkb_3E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_B39233_3F",
+            "name": "3F",
+            "color": "B39233",
+            "long_name": "Kalideres - Gelora Bung Karno",
+            "schedule_id": "idjkb_3F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_5D2E64_4",
+            "name": "4",
+            "color": "5D2E64",
+            "long_name": "Pulo Gadung - Dukuh Atas",
+            "schedule_id": "idjkb_4",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_AD74B1_4A",
+            "name": "4A",
+            "color": "AD74B1",
+            "long_name": "Jelambar - TU GAS",
+            "schedule_id": "idjkb_4A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_CD5FA5_4B",
+            "name": "4B",
+            "color": "CD5FA5",
+            "long_name": "Stasiun Manggarai - Universitas Indonesia",
+            "schedule_id": "idjkb_4B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_AD75B2_4C",
+            "name": "4C",
+            "color": "AD75B2",
+            "long_name": "Bundaran Senayan - TU GAS",
+            "schedule_id": "idjkb_4C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_5D2E64_4D",
+            "name": "4D",
+            "color": "5D2E64",
+            "long_name": "TU GAS - Patra Kuningan",
+            "schedule_id": "idjkb_4D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_4E",
+            "name": "4E",
+            "color": "8D8482",
+            "long_name": "Rusun Jatinegara Kaum - Pulo Gadung",
+            "schedule_id": "idjkb_4E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_B900E2_4F",
+            "name": "4F",
+            "color": "B900E2",
+            "long_name": "Pulo Gadung - Pinang Ranti",
+            "schedule_id": "idjkb_brt_4F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_9C41B5_4H",
+            "name": "4H",
+            "color": "9C41B5",
+            "long_name": "Pulo Gadung - Ragunan",
+            "schedule_id": "idjkb_4H",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_9626B5_4K",
+            "name": "4K",
+            "color": "9626B5",
+            "long_name": "Pulo Gadung - Blok M",
+            "schedule_id": "idjkb_4K",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_900BB5_4M",
+            "name": "4M",
+            "color": "900BB5",
+            "long_name": "Pulo Gadung - Kota",
+            "schedule_id": "idjkb_4M",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_C85F1B_5",
+            "name": "5",
+            "color": "C85F1B",
+            "long_name": "Ancol - Kampung Melayu",
+            "schedule_id": "idjkb_5",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_D38251_5A",
+            "name": "5A",
+            "color": "D38251",
+            "long_name": "Kampung Melayu - Grogol",
+            "schedule_id": "idjkb_5A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_905C3A_5B",
+            "name": "5B",
+            "color": "905C3A",
+            "long_name": "Stasiun Tebet - Bidara Cina",
+            "schedule_id": "idjkb_5B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_73CCD5_5C",
+            "name": "5C",
+            "color": "73CCD5",
+            "long_name": "PGC - Harmoni",
+            "schedule_id": "idjkb_5C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_F2911F_5D",
+            "name": "5D",
+            "color": "F2911F",
+            "long_name": "PGC - Ancol",
+            "schedule_id": "idjkb_5D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_F1592A_5E",
+            "name": "5E",
+            "color": "F1592A",
+            "long_name": "Kampung Rambutan - Ancol",
+            "schedule_id": "idjkb_5E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_FF9E58_5F",
+            "name": "5F",
+            "color": "FF9E58",
+            "long_name": "Kampung Melayu - Tanah Abang",
+            "schedule_id": "idjkb_5F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_FF7734_5H",
+            "name": "5H",
+            "color": "FF7734",
+            "long_name": "Harmoni - Ancol",
+            "schedule_id": "idjkb_old_5F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_FC6F03_5K",
+            "name": "5K",
+            "color": "FC6F03",
+            "long_name": "Kampung Melayu - Kota",
+            "schedule_id": "idjkb_5K",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_31A542_6",
+            "name": "6",
+            "color": "31A542",
+            "long_name": "Ragunan - Dukuh Atas",
+            "schedule_id": "idjkb_6",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_98C274_6A",
+            "name": "6A",
+            "color": "98C274",
+            "long_name": "Ragunan - Kuningan - Monas",
+            "schedule_id": "idjkb_6A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_74C289_6B",
+            "name": "6B",
+            "color": "74C289",
+            "long_name": "Ragunan - Semanggi - Monas",
+            "schedule_id": "idjkb_6B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_647950_6C",
+            "name": "6C",
+            "color": "647950",
+            "long_name": "Stasiun Tebet - Patra Kuningan - Karet",
+            "schedule_id": "idjkb_6C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_819967_6D",
+            "name": "6D",
+            "color": "819967",
+            "long_name": "Stasiun Tebet - Underpass - Karet",
+            "schedule_id": "idjkb_6D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_384C22_6E",
+            "name": "6E",
+            "color": "384C22",
+            "long_name": "Stasiun Tebet - Mega Kuningan - Karet",
+            "schedule_id": "idjkb_6E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_61B646_6F",
+            "name": "6F",
+            "color": "61B646",
+            "long_name": "Ragunan - Stasiun Manggarai",
+            "schedule_id": "idjkb_6F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_75358D_6H",
+            "name": "6H",
+            "color": "75358D",
+            "long_name": "Lebak Bulus - Senen",
+            "schedule_id": "idjkb_6H",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_7A3569_6M",
+            "name": "6M",
+            "color": "7A3569",
+            "long_name": "Stasiun Manggarai - Blok M",
+            "schedule_id": "idjkb_6M",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_61B646_6N",
+            "name": "6N",
+            "color": "61B646",
+            "long_name": "Ragunan - Blok M",
+            "schedule_id": "idjkb_6N",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_79FC58_6Q",
+            "name": "6Q",
+            "color": "79FC58",
+            "long_name": "Epicentrum - Casablanca",
+            "schedule_id": "idjkb_6Q",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_EC2661_7",
+            "name": "7",
+            "color": "EC2661",
+            "long_name": "Kampung Rambutan - Kampung Melayu",
+            "schedule_id": "idjkb_7",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_F498B9_7A",
+            "name": "7A",
+            "color": "F498B9",
+            "long_name": "Lebak Bulus - Kampung Rambutan",
+            "schedule_id": "idjkb_7A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_BB5227_7B",
+            "name": "7B",
+            "color": "BB5227",
+            "long_name": "Kampung Rambutan - Blok M",
+            "schedule_id": "idjkb_7B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_669043_7C",
+            "name": "7C",
+            "color": "669043",
+            "long_name": "Cibubur - BKN",
+            "schedule_id": "idjkb_7C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_3F9593_7D",
+            "name": "7D",
+            "color": "3F9593",
+            "long_name": "TMII - Cawang Cikoko",
+            "schedule_id": "idjkb_7D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_ED4B78_7E",
+            "name": "7E",
+            "color": "ED4B78",
+            "long_name": "Kampung Rambutan - Ragunan",
+            "schedule_id": "idjkb_7E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_FF326B_7F",
+            "name": "7F",
+            "color": "FF326B",
+            "long_name": "Kampung Rambutan - Cempaka Putih - Harmoni",
+            "schedule_id": "idjkb_7F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_940027_7M",
+            "name": "7M",
+            "color": "940027",
+            "long_name": "Kampung Rambutan - Pulo Gadung",
+            "schedule_id": "idjkb_7M",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_91334C_7N",
+            "name": "7N",
+            "color": "91334C",
+            "long_name": "Gandaria - Kampung Rambutan",
+            "schedule_id": "idjkb_7N",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_911D3C_7P",
+            "name": "7P",
+            "color": "911D3C",
+            "long_name": "Pondok Kelapa - BKN",
+            "schedule_id": "idjkb_7P",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_DA259A_8",
+            "name": "8",
+            "color": "DA259A",
+            "long_name": "Lebak Bulus - Harmoni",
+            "schedule_id": "idjkb_8",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_972A70_8A",
+            "name": "8A",
+            "color": "972A70",
+            "long_name": "Harmoni - Grogol",
+            "schedule_id": "idjkb_8A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_245D61_8C",
+            "name": "8C",
+            "color": "245D61",
+            "long_name": "Tanah Abang - Kebayoran Lama",
+            "schedule_id": "idjkb_8C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_378F94_8D",
+            "name": "8D",
+            "color": "378F94",
+            "long_name": "Blok M - Joglo",
+            "schedule_id": "idjkb_8D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_F498B9_8E",
+            "name": "8E",
+            "color": "F498B9",
+            "long_name": "Blok M - Bintaro",
+            "schedule_id": "idjkb_8E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_378F94_8K",
+            "name": "8K",
+            "color": "378F94",
+            "long_name": "Tanah Abang - Batusari",
+            "schedule_id": "idjkb_8K",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_449F98_9",
+            "name": "9",
+            "color": "449F98",
+            "long_name": "Pinang Ranti - Pluit",
+            "schedule_id": "idjkb_9",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8EA03B_9A",
+            "name": "9A",
+            "color": "8EA03B",
+            "long_name": "PGC 2 - Pluit",
+            "schedule_id": "idjkb_9A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_57A144_9B",
+            "name": "9B",
+            "color": "57A144",
+            "long_name": "Pinang Ranti - Kota",
+            "schedule_id": "idjkb_9B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_3AA068_9C",
+            "name": "9C",
+            "color": "3AA068",
+            "long_name": "Pinang Ranti - Bundaran Senayan",
+            "schedule_id": "idjkb_9C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_37C021_9D",
+            "name": "9D",
+            "color": "37C021",
+            "long_name": "Pasar Minggu - Tanah Abang",
+            "schedule_id": "idjkb_9D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_5D9DA8_9E",
+            "name": "9E",
+            "color": "5D9DA8",
+            "long_name": "Kebayoran Lama - Jelambar",
+            "schedule_id": "idjkb_9E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_9F",
+            "name": "9F",
+            "color": "8D8482",
+            "long_name": "Rusun Tambora - Pluit",
+            "schedule_id": "idjkb_9F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_84D0D4_9H",
+            "name": "9H",
+            "color": "84D0D4",
+            "long_name": "Cipedak - Blok M",
+            "schedule_id": "idjkb_9H",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_79D6D3_9K",
+            "name": "9K",
+            "color": "79D6D3",
+            "long_name": "Kampung Rambutan - Grogol",
+            "schedule_id": "idjkb_9K",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_2EF5FF_9M",
+            "name": "9M",
+            "color": "2EF5FF",
+            "long_name": "Pinang Ranti - Kuningan",
+            "schedule_id": "idjkb_9M",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8F1A1E_10",
+            "name": "10",
+            "color": "8F1A1E",
+            "long_name": "Tanjung Priok - PGC",
+            "schedule_id": "idjkb_10",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_10A",
+            "name": "10A",
+            "color": "8D8482",
+            "long_name": "Rusun Marunda - Tanjung Priok",
+            "schedule_id": "idjkb_10A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_10B",
+            "name": "10B",
+            "color": "8D8482",
+            "long_name": "Rusun Cipinang Besar Selatan - Penas Kalimalang",
+            "schedule_id": "idjkb_10B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_E5494E_10C",
+            "name": "10C",
+            "color": "E5494E",
+            "long_name": "Tanjung Priok - Pelabuhan Tanjung Priok",
+            "schedule_id": "idjkb_10C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_9B3337_10D",
+            "name": "10D",
+            "color": "9B3337",
+            "long_name": "Tanjung Priok - Kampung Rambutan",
+            "schedule_id": "idjkb_10D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_9C050A_10H",
+            "name": "10H",
+            "color": "9C050A",
+            "long_name": "Tanjung Priok - Blok M",
+            "schedule_id": "idjkb_10H",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8B4344_10K",
+            "name": "10K",
+            "color": "8B4344",
+            "long_name": "Tanjung Priok - Senen",
+            "schedule_id": "idjkb_10K",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_2F4FA2_11",
+            "name": "11",
+            "color": "2F4FA2",
+            "long_name": "Kampung Melayu - Pulo Gebang",
+            "schedule_id": "idjkb_11",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_6E7FAE_11A",
+            "name": "11A",
+            "color": "6E7FAE",
+            "long_name": "Pulo Gebang - Rawamangun",
+            "schedule_id": "idjkb_11A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_11B",
+            "name": "11B",
+            "color": "8D8482",
+            "long_name": "Rusun Rawa Bebek - Penggilingan",
+            "schedule_id": "idjkb_11B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_11C",
+            "name": "11C",
+            "color": "8D8482",
+            "long_name": "Rusun Pinus Elok - Rusun Pulo Gebang",
+            "schedule_id": "idjkb_11C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_6E7FAE_11D",
+            "name": "11D",
+            "color": "6E7FAE",
+            "long_name": "Pulo Gadung - Pulo Gebang",
+            "schedule_id": "idjkb_11D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_11K",
+            "name": "11K",
+            "color": "8D8482",
+            "long_name": "Rusun Komarudin - Penggilingan",
+            "schedule_id": "idjkb_11J",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_11M",
+            "name": "11M",
+            "color": "8D8482",
+            "long_name": "Rusun Rawa Bebek - Bukit Duri",
+            "schedule_id": "idjkb_11K",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_11N",
+            "name": "11N",
+            "color": "8D8482",
+            "long_name": "Rusun Cipinang Muara - Jatinegara",
+            "schedule_id": "idjkb_11N",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_11P",
+            "name": "11P",
+            "color": "8D8482",
+            "long_name": "Rusun Pondok Bambu - Walikota Jakarta Timur",
+            "schedule_id": "idjkb_11P",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_10C0FF_11Q",
+            "name": "11Q",
+            "color": "10C0FF",
+            "long_name": "Pulo Gebang - BKT - Kampung Melayu",
+            "schedule_id": "idjkb_11Q",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_11R",
+            "name": "11R",
+            "color": "8D8482",
+            "long_name": "Rusun Cakung KM2 - Bukit Duri",
+            "schedule_id": "idjkb_11R",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8391B2_11T",
+            "name": "11T",
+            "color": "8391B2",
+            "long_name": "Stasiun Cakung - Pulo Gebang",
+            "schedule_id": "idjkb_11T",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_143176_11U",
+            "name": "11U",
+            "color": "143176",
+            "long_name": "Stasiun Cakung - Cakung Cilincing - Pulo Gebang",
+            "schedule_id": "idjkb_11U",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_022575_11V",
+            "name": "11V",
+            "color": "022575",
+            "long_name": "Pulo Gebang - Pasar Baru",
+            "schedule_id": "idjkb_11V",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_62BD73_12",
+            "name": "12",
+            "color": "62BD73",
+            "long_name": "Penjaringan - Sunter Kelapa Gading",
+            "schedule_id": "idjkb_12_20190812",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_1B6031_12A",
+            "name": "12A",
+            "color": "1B6031",
+            "long_name": "Kota - Pelabuhan Kaliadem",
+            "schedule_id": "idjkb_12A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_598E64_12B",
+            "name": "12B",
+            "color": "598E64",
+            "long_name": "Pluit - Senen",
+            "schedule_id": "idjkb_12B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_12C",
+            "name": "12C",
+            "color": "8D8482",
+            "long_name": "Rusun Waduk Pluit - Penjaringan",
+            "schedule_id": "idjkb_12C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_12D",
+            "name": "12D",
+            "color": "8D8482",
+            "long_name": "Rusun Sukapura - Sunter",
+            "schedule_id": "idjkb_12D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_2B823B_12E",
+            "name": "12E",
+            "color": "2B823B",
+            "long_name": "History of Jakarta Explorer",
+            "schedule_id": "idjkb_12E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_12F",
+            "name": "12F",
+            "color": "8D8482",
+            "long_name": "Rusun Marunda - Rusun Waduk Pluit",
+            "schedule_id": "idjkb_12F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_12H",
+            "name": "12H",
+            "color": "8D8482",
+            "long_name": "Rusun Penjaringan - Penjaringan",
+            "schedule_id": "idjkb_12H",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_126E23_12K",
+            "name": "12K",
+            "color": "126E23",
+            "long_name": "Asemka Explorer",
+            "schedule_id": "idjkb_12K",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_5C359D_13",
+            "name": "13",
+            "color": "5C359D",
+            "long_name": "Tendean - CBD Ciledug",
+            "schedule_id": "idjkb_brt_13",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_5C348D_13A",
+            "name": "13A",
+            "color": "5C348D",
+            "long_name": "Blok M - CBD Ciledug",
+            "schedule_id": "idjkb_brt_13A",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_972489_13B",
+            "name": "13B",
+            "color": "972489",
+            "long_name": "Pancoran Barat - Puri Beta",
+            "schedule_id": "idjkb_brt_13B",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_69338B_13C",
+            "name": "13C",
+            "color": "69338B",
+            "long_name": "Tosari - Puri Beta",
+            "schedule_id": "idjkb_brt_13C",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8C5D91_13D",
+            "name": "13D",
+            "color": "8C5D91",
+            "long_name": "Ragunan - Puri Beta",
+            "schedule_id": "idjkb_brt_13D",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_761C86_13E",
+            "name": "13E",
+            "color": "761C86",
+            "long_name": "Kuningan - Puri Beta",
+            "schedule_id": "idjkb_brt_13E",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_730087_13F",
+            "name": "13F",
+            "color": "730087",
+            "long_name": "Kampung Melayu - Puri Beta",
+            "schedule_id": "idjkb_brt_13F",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_D1792B_B11",
+            "name": "B11",
+            "color": "D1792B",
+            "long_name": "Summarecon Bekasi - Tosari",
+            "schedule_id": "idjkb_B11",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_D81D5D_B12",
+            "name": "B12",
+            "color": "D81D5D",
+            "long_name": "Summarecon Bekasi - Tanjung Priok",
+            "schedule_id": "idjkb_B12",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_3BB59C_B21",
+            "name": "B21",
+            "color": "3BB59C",
+            "long_name": "Bekasi Timur - Grogol",
+            "schedule_id": "idjkb_B21",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_72C6B6_B22",
+            "name": "B22",
+            "color": "72C6B6",
+            "long_name": "Bekasi Timur - Juanda",
+            "schedule_id": "idjkb_B22",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_669043_D11",
+            "name": "D11",
+            "color": "669043",
+            "long_name": "Depok - BKN",
+            "schedule_id": "idjkb_D11",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8AAE6B_D21",
+            "name": "D21",
+            "color": "8AAE6B",
+            "long_name": "Universitas Indonesia - Lebak Bulus",
+            "schedule_id": "idjkb_brt_D21",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8CFF40_DA1",
+            "name": "DA1",
+            "color": "8CFF40",
+            "long_name": "Stasiun MRT Dukuh Atas - Sam Ratulangi",
+            "schedule_id": "idjkb_DA1",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_FF73DC_DA2",
+            "name": "DA2",
+            "color": "FF73DC",
+            "long_name": "Stasiun MRT Dukuh Atas - Tanah Abang",
+            "schedule_id": "idjkb_DA2",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_4040FF_DA3",
+            "name": "DA3",
+            "color": "4040FF",
+            "long_name": "Stasiun MRT Dukuh Atas - Kuningan",
+            "schedule_id": "idjkb_DA3",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_F7B772_DA4",
+            "name": "DA4",
+            "color": "F7B772",
+            "long_name": "Stasiun MRT Dukuh Atas - Kota",
+            "schedule_id": "idjkb_DA4",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_EF3134_L10",
+            "name": "L10",
+            "color": "EF3134",
+            "long_name": "PGC 2 - Tanjung Priok",
+            "schedule_id": "idjkb_L10",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_264798_L2",
+            "name": "L2",
+            "color": "264798",
+            "long_name": "Pulo Gadung - Pramuka - Harmoni",
+            "schedule_id": "idjkb_L2",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_43C7CE_L4",
+            "name": "L4",
+            "color": "43C7CE",
+            "long_name": "PGC 2 - Dukuh Atas",
+            "schedule_id": "idjkb_L4",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_992765_L7",
+            "name": "L7",
+            "color": "992765",
+            "long_name": "Kampung Rambutan - Kampung Melayu",
+            "schedule_id": "idjkb_L7",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_4D2D85_MR1",
+            "name": "MR1",
+            "color": "4D2D85",
+            "long_name": "Blok M - Pakubuwono",
+            "schedule_id": "idjkb_MR1",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_553191_MR2",
+            "name": "MR2",
+            "color": "553191",
+            "long_name": "Blok M - Kramat Pela",
+            "schedule_id": "idjkb_MR2",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_633AAB_MR3",
+            "name": "MR3",
+            "color": "633AAB",
+            "long_name": "Blok M - Wijaya",
+            "schedule_id": "idjkb_MR3",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_7243C4_MR5",
+            "name": "MR5",
+            "color": "7243C4",
+            "long_name": "Stasiun MRT Blok A - Radio Dalam",
+            "schedule_id": "idjkb_MR5",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8950EB_MR8",
+            "name": "MR8",
+            "color": "8950EB",
+            "long_name": "Stasiun MRT Blok A - Pangeran Antasari",
+            "schedule_id": "idjkb_MR8",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_9054F7_MR9",
+            "name": "MR9",
+            "color": "9054F7",
+            "long_name": "South Quarter - Lebak Bulus",
+            "schedule_id": "idjkb_MR9",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_0FA8D4_S11",
+            "name": "S11",
+            "color": "0FA8D4",
+            "long_name": "Serpong BSD - Jelambar",
+            "schedule_id": "idjkb_S11",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_D8B527_S21",
+            "name": "S21",
+            "color": "D8B527",
+            "long_name": "Ciputat - Tosari",
+            "schedule_id": "idjkb_S21",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_DB8B29_S22",
+            "name": "S22",
+            "color": "DB8B29",
+            "long_name": "Ciputat - Kampung Rambutan",
+            "schedule_id": "idjkb_S22",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_DBA460_S41",
+            "name": "S41",
+            "color": "DBA460",
+            "long_name": "Pondok Cabe - Tanah Abang",
+            "schedule_id": "idjkb_S41",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8F4B98_T11",
+            "name": "T11",
+            "color": "8F4B98",
+            "long_name": "Poris Plawad - Bundaran Senayan",
+            "schedule_id": "idjkb_T11",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_C3378D_T12",
+            "name": "T12",
+            "color": "C3378D",
+            "long_name": "Poris Plawad - Juanda",
+            "schedule_id": "idjkb_T12",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_brt_transjakarta_8D8482_W1",
+            "name": "W1",
+            "color": "8D8482",
+            "long_name": "Kota - Pelabuhan Sunda Kelapa",
+            "schedule_id": "idjkb_W1",
+            "transport_id": "idjkb_brt",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_D41D21_M1",
+            "name": "M1",
+            "color": "D41D21",
+            "long_name": "Blok M - Kota",
+            "schedule_id": "idjkb_M1",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_9B1D21_M10",
+            "name": "M10",
+            "color": "9B1D21",
+            "long_name": "Tanjung Priok - PGC 2",
+            "schedule_id": "idjkb_M10",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_6F7FAF_M11",
+            "name": "M11",
+            "color": "6F7FAF",
+            "long_name": "Pulo Gebang - Pulo Gadung",
+            "schedule_id": "idjkb_11A_night",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_264798_M2",
+            "name": "M2",
+            "color": "264798",
+            "long_name": "Pulo Gadung - Harmoni",
+            "schedule_id": "idjkb_M2",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_EDB900_M3",
+            "name": "M3",
+            "color": "EDB900",
+            "long_name": "Kalideres - Pasar Baru",
+            "schedule_id": "idjkb_M3",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_5D2E64_M4",
+            "name": "M4",
+            "color": "5D2E64",
+            "long_name": "Pulo Gadung - Dukuh Atas",
+            "schedule_id": "idjkb_M4",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_C85F1B_M5",
+            "name": "M5",
+            "color": "C85F1B",
+            "long_name": "Ancol - PGC",
+            "schedule_id": "idjkb_M5",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_98C274_M6",
+            "name": "M6",
+            "color": "98C274",
+            "long_name": "Ragunan - Harmoni",
+            "schedule_id": "idjkb_M6",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_EC2661_M7",
+            "name": "M7",
+            "color": "EC2661",
+            "long_name": "Kampung Rambutan - Harmoni",
+            "schedule_id": "idjkb_M7",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_DA259A_M8",
+            "name": "M8",
+            "color": "DA259A",
+            "long_name": "Lebak Bulus - Harmoni",
+            "schedule_id": "idjkb_M8",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_nightbus_transjakarta_449F98_M9",
+            "name": "M9",
+            "color": "449F98",
+            "long_name": "Pinang Ranti - Pluit",
+            "schedule_id": "idjkb_M9",
+            "transport_id": "idjkb_nightbus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-freebus_transjakarta_449F98_GR1",
+            "name": "GR1",
+            "color": "449F98",
+            "long_name": "Harmoni - Bundaran Senayan",
+            "schedule_id": "idjkb_GR1",
+            "transport_id": "idjkb_tj-freebus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-freebus_transjakarta_1D4B99_GR2",
+            "name": "GR2",
+            "color": "1D4B99",
+            "long_name": "Tanah Abang Explorer",
+            "schedule_id": "idjkb_GR2",
+            "transport_id": "idjkb_tj-freebus",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-1",
+            "name": "JAK-1",
+            "color": "00B0EC",
+            "long_name": "Tanjung Priok - Plumpang",
+            "schedule_id": "idjkb_JAK-1",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-10",
+            "name": "JAK-10",
+            "color": "00B0EC",
+            "long_name": "Tanah Abang - Kota",
+            "schedule_id": "idjkb_JAK-10",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-11",
+            "name": "JAK-11",
+            "color": "00B0EC",
+            "long_name": "Tanah Abang - Kebayoran Lama",
+            "schedule_id": "idjkb_JAK-11",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-12",
+            "name": "JAK-12",
+            "color": "00B0EC",
+            "long_name": "Tanah Abang - Pos Pengumben - Kebayoran Lama",
+            "schedule_id": "idjkb_JAK-12",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-14",
+            "name": "JAK-14",
+            "color": "00B0EC",
+            "long_name": "Tanah Abang - Meruya",
+            "schedule_id": "idjkb_JAK-14",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-15",
+            "name": "JAK-15",
+            "color": "00B0EC",
+            "long_name": "Tanjung Priok - Bulak Turi",
+            "schedule_id": "idjkb_OK-15",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-16",
+            "name": "JAK-16",
+            "color": "00B0EC",
+            "long_name": "Cililitan - Condet",
+            "schedule_id": "idjkb_OK-16",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-17",
+            "name": "JAK-17",
+            "color": "00B0EC",
+            "long_name": "Pulo Gadung - Senen",
+            "schedule_id": "idjkb_OK-17",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-18",
+            "name": "JAK-18",
+            "color": "00B0EC",
+            "long_name": "Stasiun Duren Kalibata - Kuningan",
+            "schedule_id": "idjkb_OK-18",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-19",
+            "name": "JAK-19",
+            "color": "00B0EC",
+            "long_name": "Pinang Ranti - Setu",
+            "schedule_id": "idjkb_OK-19",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-2",
+            "name": "JAK-2",
+            "color": "00B0EC",
+            "long_name": "Kampung Melayu - Duren Sawit",
+            "schedule_id": "idjkb_OK-2",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-20",
+            "name": "JAK-20",
+            "color": "00B0EC",
+            "long_name": "Lubang Buaya - Cawang UKI",
+            "schedule_id": "idjkb_OK-20",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-21",
+            "name": "JAK-21",
+            "color": "00B0EC",
+            "long_name": "PGC - Dwikora",
+            "schedule_id": "idjkb_OK-21",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-22",
+            "name": "JAK-22",
+            "color": "00B0EC",
+            "long_name": "Penas Kalimalang - Dwikora",
+            "schedule_id": "idjkb_OK-22",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-24",
+            "name": "JAK-24",
+            "color": "00B0EC",
+            "long_name": "Senen - Kelapa Gading - Pulo Gadung",
+            "schedule_id": "idjkb_JAK-24",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-25",
+            "name": "JAK-25",
+            "color": "00B0EC",
+            "long_name": "Kalisari - Pasar Rebo",
+            "schedule_id": "idjkb_OK-25",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-26",
+            "name": "JAK-26",
+            "color": "00B0EC",
+            "long_name": "Duren Sawit - Rawamangun",
+            "schedule_id": "idjkb_OK-26",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-27",
+            "name": "JAK-27",
+            "color": "00B0EC",
+            "long_name": "Rorotan - Pulo Gebang",
+            "schedule_id": "idjkb_OK-27",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-28",
+            "name": "JAK-28",
+            "color": "00B0EC",
+            "long_name": "Pasar Rebo - Taman Wiladatika",
+            "schedule_id": "idjkb_OK-28",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-29",
+            "name": "JAK-29",
+            "color": "00B0EC",
+            "long_name": "Tanjung Priok - Rusun Sukapura",
+            "schedule_id": "idjkb_OK-29",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-3",
+            "name": "JAK-3",
+            "color": "00B0EC",
+            "long_name": "Pondok Labu - Lebak Bulus",
+            "schedule_id": "idjkb_OK-3",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-30",
+            "name": "JAK-30",
+            "color": "00B0EC",
+            "long_name": "Grogol - Meruya",
+            "schedule_id": "idjkb_OK-30",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-31",
+            "name": "JAK-31",
+            "color": "00B0EC",
+            "long_name": "Pondok Labu - Blok M",
+            "schedule_id": "idjkb_OK-31",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-32",
+            "name": "JAK-32",
+            "color": "00B0EC",
+            "long_name": "Petukangan - Lebak Bulus",
+            "schedule_id": "idjkb_OK-32",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-33",
+            "name": "JAK-33",
+            "color": "00B0EC",
+            "long_name": "Pulo Gadung - Kota",
+            "schedule_id": "idjkb_OK-33",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-34",
+            "name": "JAK-34",
+            "color": "00B0EC",
+            "long_name": "Rawamangun - Klender",
+            "schedule_id": "idjkb_JAK-34",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-36",
+            "name": "JAK-36",
+            "color": "00B0EC",
+            "long_name": "Cilangkap - Cililitan",
+            "schedule_id": "idjkb_JAK-36",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-37",
+            "name": "JAK-37",
+            "color": "00B0EC",
+            "long_name": "Cililitan - Condet",
+            "schedule_id": "idjkb_JAK-37",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-38",
+            "name": "JAK-38",
+            "color": "00B0EC",
+            "long_name": "Bulak Ringin - Kampung Rambutan",
+            "schedule_id": "idjkb_JAK-38",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-39",
+            "name": "JAK-39",
+            "color": "00B0EC",
+            "long_name": "Duren Sawit - Kalimalang",
+            "schedule_id": "idjkb_JAK-39",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-4",
+            "name": "JAK-4",
+            "color": "00B0EC",
+            "long_name": "Grogol - Tubagus Angke",
+            "schedule_id": "idjkb_OK-4",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-40",
+            "name": "JAK-40",
+            "color": "00B0EC",
+            "long_name": "Pulogebang - Taman Harapan Baru",
+            "schedule_id": "idjkb_JAK-40",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-44",
+            "name": "JAK-44",
+            "color": "00B0EC",
+            "long_name": "Andara - Lenteng Agung",
+            "schedule_id": "idjkb_JAK-44",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-45",
+            "name": "JAK-45",
+            "color": "00B0EC",
+            "long_name": "Ragunan - Lebak Bulus",
+            "schedule_id": "idjkb_JAK-45",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-47",
+            "name": "JAK-47",
+            "color": "00B0EC",
+            "long_name": "Terminal Pasar Minggu - Ciganjur",
+            "schedule_id": "idjkb_JAK-47",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-5",
+            "name": "JAK-5",
+            "color": "00B0EC",
+            "long_name": "Semper - Rorotan",
+            "schedule_id": "idjkb_OK-5",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-50",
+            "name": "JAK-50",
+            "color": "00B0EC",
+            "long_name": "Kalideres - Puri Kembangan",
+            "schedule_id": "idjkb_JAK-50",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-51",
+            "name": "JAK-51",
+            "color": "00B0EC",
+            "long_name": "Taman Kota - Budi Luhur",
+            "schedule_id": "idjkb_JAK-51",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-56",
+            "name": "JAK-56",
+            "color": "00B0EC",
+            "long_name": "Grogol - Srengseng",
+            "schedule_id": "idjkb_JAK-56",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-58",
+            "name": "JAK-58",
+            "color": "00B0EC",
+            "long_name": "Cilincing - Rorotan",
+            "schedule_id": "idjkb_JAK-58",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-59",
+            "name": "JAK-59",
+            "color": "00B0EC",
+            "long_name": "Rawamangun - Rawa Sengon",
+            "schedule_id": "idjkb_JAK-59",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-6",
+            "name": "JAK-6",
+            "color": "00B0EC",
+            "long_name": "Kampung Rambutan - Pondok Gede",
+            "schedule_id": "idjkb_OK-6",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-60",
+            "name": "JAK-60",
+            "color": "00B0EC",
+            "long_name": "Kelapa Gading - Rusun Kemayoran",
+            "schedule_id": "idjkb_JAK-60",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-61",
+            "name": "JAK-61",
+            "color": "00B0EC",
+            "long_name": "Pulo Gadung - Cempaka Putih",
+            "schedule_id": "idjkb_JAK-61",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-64",
+            "name": "JAK-64",
+            "color": "00B0EC",
+            "long_name": "Lenteng Agung - Aselih",
+            "schedule_id": "idjkb_JAK-64",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-7",
+            "name": "JAK-7",
+            "color": "00B0EC",
+            "long_name": "Tanah Abang - Grogol",
+            "schedule_id": "idjkb_JAK-7",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-72",
+            "name": "JAK-72",
+            "color": "00B0EC",
+            "long_name": "Kampung Rambutan - Pasar Rebo",
+            "schedule_id": "idjkb_JAK-72",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-75",
+            "name": "JAK-75",
+            "color": "00B0EC",
+            "long_name": "Kampung Pulo - Halim",
+            "schedule_id": "idjkb_JAK-75",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-77",
+            "name": "JAK-77",
+            "color": "00B0EC",
+            "long_name": "Tanjung Priok - Jembatan Hitam",
+            "schedule_id": "idjkb_JAK-77",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-jaklingko_transjakarta_00B0EC_JAK-8",
+            "name": "JAK-8",
+            "color": "00B0EC",
+            "long_name": "Roxy - Bendungan Hilir",
+            "schedule_id": "idjkb_JAK-8",
+            "transport_id": "idjkb_tj-jaklingko",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_FF4271_1K",
+            "name": "1K",
+            "color": "FF4271",
+            "long_name": "Cibubur - Blok M",
+            "schedule_id": "idjkb_1K",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_BF5871_1T",
+            "name": "1T",
+            "color": "BF5871",
+            "long_name": "Cibubur - Kota",
+            "schedule_id": "idjkb_1T",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_F87292_1U",
+            "name": "1U",
+            "color": "F87292",
+            "long_name": "TMII - Balai Kota",
+            "schedule_id": "idjkb_1U",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_BFFFAF_6P",
+            "name": "6P",
+            "color": "BFFFAF",
+            "long_name": "Cibubur - Kuningan",
+            "schedule_id": "idjkb_6P_royaltrans",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_FF873D_B13",
+            "name": "B13",
+            "color": "FF873D",
+            "long_name": "Summarecon Bekasi - Blok M",
+            "schedule_id": "idjkb_B13",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_D14274_B14",
+            "name": "B14",
+            "color": "D14274",
+            "long_name": "Summarecon Bekasi - Kuningan",
+            "schedule_id": "idjkb_B14",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_FF7017_B15",
+            "name": "B15",
+            "color": "FF7017",
+            "long_name": "Jatibening - Blok M",
+            "schedule_id": "idjkb_B15",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_D12460_B16",
+            "name": "B16",
+            "color": "D12460",
+            "long_name": "Jatibening - Kuningan",
+            "schedule_id": "idjkb_B16_royaltrans",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_7ECDBC_B23",
+            "name": "B23",
+            "color": "7ECDBC",
+            "long_name": "Bekasi Timur - Manggarai",
+            "schedule_id": "idjkb_B23",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_7ECDBC_B24",
+            "name": "B24",
+            "color": "7ECDBC",
+            "long_name": "Bekasi Timur - Kalideres",
+            "schedule_id": "idjkb_B24",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_8BBD62_D31",
+            "name": "D31",
+            "color": "8BBD62",
+            "long_name": "Cinere - Kuningan",
+            "schedule_id": "idjkb_D31",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_46B5D4_S12",
+            "name": "S12",
+            "color": "46B5D4",
+            "long_name": "Serpong BSD - Stasiun MRT Fatmawati",
+            "schedule_id": "idjkb_S12_royaltrans",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-royaltrans_transjakarta_D6BF60_S31",
+            "name": "S31",
+            "color": "D6BF60",
+            "long_name": "Bintaro - Stasiun MRT Fatmawati",
+            "schedule_id": "idjkb_S31",
+            "transport_id": "idjkb_tj-royaltrans",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-wisata_transjakarta_264798_BW1",
+            "name": "BW1",
+            "color": "264798",
+            "long_name": "Bus wisata History of Jakarta",
+            "schedule_id": "idjkb_BW1",
+            "transport_id": "idjkb_tj-wisata",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-wisata_transjakarta_264798_BW2",
+            "name": "BW2",
+            "color": "264798",
+            "long_name": "Bus wisata Jakarta Modern",
+            "schedule_id": "idjkb_BW2",
+            "transport_id": "idjkb_tj-wisata",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-wisata_transjakarta_264798_BW3",
+            "name": "BW3",
+            "color": "264798",
+            "long_name": "Bus wisata Art & Culinary",
+            "schedule_id": "idjkb_BW3",
+            "transport_id": "idjkb_tj-wisata",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-wisata_transjakarta_264798_BW4",
+            "name": "BW4",
+            "color": "264798",
+            "long_name": "Bus wisata Jakarta Skyscrapers",
+            "schedule_id": "idjkb_BW4",
+            "transport_id": "idjkb_tj-wisata",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-wisata_transjakarta_264798_BW5",
+            "name": "BW5",
+            "color": "264798",
+            "long_name": "Bus wisata RPTRA Kalijodo",
+            "schedule_id": "idjkb_BW5",
+            "transport_id": "idjkb_tj-wisata",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-wisata_transjakarta_264798_BW6",
+            "name": "BW6",
+            "color": "264798",
+            "long_name": "Bus wisata Makam Mbah Priok",
+            "schedule_id": "idjkb_BW6",
+            "transport_id": "idjkb_tj-wisata",
+            "validity": null
+        }
+    },
+    {
+        "model": "bot.ScheduleDetail",
+        "fields": {
+            "icon": "transport/idjkb_tj-wisata_transjakarta_264798_BW7",
+            "name": "BW7",
+            "color": "264798",
+            "long_name": "Bus wisata Jakarta Shopping",
+            "schedule_id": "idjkb_BW7",
+            "transport_id": "idjkb_tj-wisata",
+            "validity": null
+        }
+    }
+]

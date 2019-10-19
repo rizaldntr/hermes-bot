@@ -19,7 +19,7 @@ load_dotenv(dotenv_path='.env')
 logger = logging.getLogger(__name__)
 
 line_bot_api = LineBotApi(os.getenv('LINE_CHANNEL_ACCESS_TOKEN'))
-parser = WebhookParser(os.getenv('LINE_CHANNEL_SECRET'))
+parser_api = WebhookParser(os.getenv('LINE_CHANNEL_SECRET'))
 
 DEFAULT_MESSAGE_COMMAND_NOT_FOUND = "Perintah tidak ditemukan!"
 
@@ -61,14 +61,13 @@ def callback(request):
         body = request.body.decode('utf-8')
 
         try:
-            events = parser.parse(body, signature)
+            events = parser_api.parse(body, signature)
         except InvalidSignatureError:
             return HttpResponseForbidden()
         except LineBotApiError:
             return HttpResponseBadRequest()
 
-        for event in events:
-            logger.info("Test")
+        for event in events:    
             parser(event)
 
         return HttpResponse()

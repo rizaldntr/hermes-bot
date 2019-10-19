@@ -12,12 +12,42 @@ from linebot import LineBotApi, WebhookParser
 from linebot.exceptions import InvalidSignatureError, LineBotApiError
 from linebot.models import MessageEvent, TextMessage, TextSendMessage
 
+from .models import ScheduleDetail, TrackDetail
+
 load_dotenv(dotenv_path='.env')
 
 line_bot_api = LineBotApi(os.getenv('LINE_CHANNEL_ACCESS_TOKEN'))
 parser = WebhookParser(os.getenv('LINE_CHANNEL_SECRET'))
 
+DEFAULT_MESSAGE_COMMAND_NOT_FOUND = "Perintah tidak ditemukan!"
 
+def check_track_by_transport(transport, args):
+    try:
+        schedule = ScheduleDetail.objects.filter(name=transport).first()
+        tracks = TrackDetail.objects.filter(schedule_detail=schedule.schedule_id)
+        text = ""
+        for track in tracks:
+            text = text + track.name + "\n"
+    except ScheduleDetail.DoesNotExist:
+        return "Rute tidak ditemukan"
+
+def parser_check_command(text, args):
+    if text == "rute":
+        check_track_by_transport(args[2], args)
+
+def parser(event):
+    reply_text = DEFAULT_MESSAGE_COMMAND_NOT_FOUND
+    if isinstance(event, MessageEvent):
+        if isinstance(event.message, TextMessage):
+            argums = event.message.text.split(" ")
+            if len(argums) <= 1:
+                reply_text = DEFAULT_MESSAGE_COMMAND_NOT_FOUND
+            elif argums[0] == "/check":
+                reply_text = parser_check_command(argums[1], argums)
+    line_bot_api.reply_message(
+            event.reply_token,
+            TextSendMessage(text=reply_text)
+        )         
 @csrf_exempt
 def callback(request):
     if request.method == 'POST':
@@ -32,12 +62,7 @@ def callback(request):
             return HttpResponseBadRequest()
 
         for event in events:
-            if isinstance(event, MessageEvent):
-                if isinstance(event.message, TextMessage):
-                    line_bot_api.reply_message(
-                        event.reply_token,
-                        TextSendMessage(text=event.message.text)
-                    )
+            parser(event)
 
         return HttpResponse()
     else:

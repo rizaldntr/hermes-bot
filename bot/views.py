@@ -31,6 +31,10 @@ def check_track_by_transport(transport, args):
         for track in tracks:
             text = text + track.name + "\n"
     except ScheduleDetail.DoesNotExist:
+        print("aaaaa")
+        return "Rute tidak ditemukan"
+    except TrackDetail.DoesNotExist:
+        print("bbbbb")
         return "Rute tidak ditemukan"
 
 def parser_check_command(text, args):
@@ -38,14 +42,18 @@ def parser_check_command(text, args):
         return check_track_by_transport(args[2], args)
 
 def parser(event):
-    reply_text = DEFAULT_MESSAGE_COMMAND_NOT_FOUND
-    if isinstance(event, MessageEvent):
-        if isinstance(event.message, TextMessage):
-            argums = event.message.text.split(" ")
-            if len(argums) <= 1:
-                reply_text = DEFAULT_MESSAGE_COMMAND_NOT_FOUND
-            elif argums[0] == "/check":
-                reply_text = parser_check_command(argums[1], argums)
+    try:
+        reply_text = DEFAULT_MESSAGE_COMMAND_NOT_FOUND
+        if isinstance(event, MessageEvent):
+            if isinstance(event.message, TextMessage):
+                argums = event.message.text.split(" ")
+                if len(argums) <= 1:
+                    reply_text = DEFAULT_MESSAGE_COMMAND_NOT_FOUND
+                elif argums[0] == "/check":
+                    reply_text = parser_check_command(argums[1], argums)
+    except Exception as e:
+        print(e)
+        
     try:
         line_bot_api.reply_message(
                 event.reply_token,

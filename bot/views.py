@@ -13,7 +13,7 @@ from linebot import LineBotApi, WebhookParser
 from linebot.exceptions import InvalidSignatureError, LineBotApiError
 from linebot.models import MessageEvent, TextMessage, TextSendMessage
 
-from .models import ScheduleDetail, TrackDetail
+from .models import ScheduleDetail, TrackDetail, TransportDetail
 
 load_dotenv(dotenv_path='.env')
 logger = logging.getLogger(__name__)
@@ -23,23 +23,29 @@ parser_api = WebhookParser(os.getenv('LINE_CHANNEL_SECRET'))
 
 DEFAULT_MESSAGE_COMMAND_NOT_FOUND = "Perintah tidak ditemukan!"
 
+def check_all_transport():
+    transports = TransportDetail.objects.all()
+    text = ""
+    for transport in transports:
+        text = text + transport.transport_name + "\n"
+    return text
+
 def check_track_by_transport(transport, args):
     try:
-        schedule = ScheduleDetail.objects.filter(name=transport).first()
-        tracks = TrackDetail.objects.filter(schedule_detail=schedule.schedule_id)
+        transport = TransportDetail.objects.filter(transport_name=transport).first()
+        schedules = transport.schedules.all()
         text = ""
-        for track in tracks:
-            text = text + track.name + "\n"
-    except ScheduleDetail.DoesNotExist:
-        print("aaaaa")
-        return "Rute tidak ditemukan"
-    except TrackDetail.DoesNotExist:
-        print("bbbbb")
+        for schedule in schedules:
+            text = text + schedule.name + "\n"
+        return text
+    except TransportDetail.DoesNotExist:
         return "Rute tidak ditemukan"
 
 def parser_check_command(text, args):
     if text == "rute":
         return check_track_by_transport(args[2], args)
+    elif text == "all":
+        return check_all_transport()
 
 def parser(event):
     try:
